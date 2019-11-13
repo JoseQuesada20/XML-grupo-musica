@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+
+<!-- Lenguaje de Marcas-->
+<!-- Jose Quesada Bauza--> 
+<!-- Grupo Violadores del Verso-->
+
+<grupo xml:lang= "es">
+
+    <nombre> Violadores del Verso </nombre>
+ 
+    <year> Desde 1995 hasta el presente </year>
+
+    <genero> Hip hop y rap hardcore </genero>
+
+    <pais> España </pais>
+
+    <web> https://es.wikipedia.org/wiki/Violadores_del_Verso </web>    
+
+    <fotodelgrupo> http://cort.as/-SeD0 </fotodelgrupo>
+
+    <VideoDeYT> https://youtu.be/0OGwDHmtfUs </VideoDeYT>
+
+    <VideoDeYT> https://youtu.be/0IbK43e3vXs </VideoDeYT>
+
+    <Miembros> nombre="Kase.O" instrumento="voz" </Miembros>
+    <Miembros> nombre="Lirico" instrumento="voz" </Miembros>
+    <Miembros> nombre="Sho-Hai" instrumento="voz" </Miembros>
+    <Miembros> nomnbre="R de Rumba" instrumento="voz" </Miembros>
+
+    <Gruposrelacionados> SFDK </Gruposrelacionados>
+    <Gruposrelacionados> Chojin </Gruposrelacionados>
+    <Gruposrelacionados> Doble H </Gruposrelacionados>
+    <Gruposrelacionados> Nach </Gruposrelacionados>
+
+    <discografia>
+
+        <Disco> Vivir para contarlo </Disco> 
+            <anyolanzamiento> 2006 </anyolanzamiento>
+            <discografica> No tiene </discografica>
+            <listacanciones>
+                <canciones> Filosofía y letras </canciones>
+                <canciones> Asomate </canciones>
+                <canciones> Pura droga sin cortar.  </canciones> 
+            </listacanciones>   
+   
+        <Disco> Tu eres alguien/ Bombo Clap </Disco>
+            <anyolanzamiento> 2002 </anyolanzamiento> 
+            <discografica> No tiene </discografica>
+            <listacanciones>
+                <canciones> Bombo Clap </canciones>
+                <canciones> Nada que hacer </canciones> 
+                <canciones> La ciudad nunca duerme </canciones>
+            </listacanciones>  
+
+            <Disco> Vicios yy Virtudes </Disco>
+                <anyolanzamiento> 2001 </anyolanzamiento> 
+                <discografica> No tiene </discografica>
+                <listacanciones>
+                    <canciones> Trae ese ron </canciones>
+                    <canciones> No pasa nada </canciones> 
+                    <canciones> Tu y tus historias </canciones>
+                </listacanciones>  
+    
+     </discografia>
+
+
+
+
+
+</grupo>
